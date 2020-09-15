@@ -3,7 +3,7 @@ pinned: true
 tags: ['2020/[09] September']
 title: Weekly Task
 created: '2020-09-02T07:31:31.870Z'
-modified: '2020-09-07T01:13:31.623Z'
+modified: '2020-09-10T03:17:28.160Z'
 ---
 
 # Weekly Task
@@ -15,6 +15,7 @@ modified: '2020-09-07T01:13:31.623Z'
 
 ## Week `37` Sep 7 - 11
 - [ ] SIMRS V2: Penambahan Fitur Rekap Per Pendapatan
+- [x] EDoc: 0.0.2 Release
 
 
 
