@@ -3,7 +3,7 @@ pinned: true
 tags: ['2020/[09] September']
 title: Weekly Task
 created: '2020-09-15T00:15:13.344Z'
-modified: '2020-09-15T00:15:26.681Z'
+modified: '2020-09-22T07:11:26.034Z'
 ---
 
 # Weekly Task
@@ -19,5 +19,11 @@ modified: '2020-09-15T00:15:26.681Z'
 
 ## Week `38` Sep 14 - Sep 18
 - [ ] Edoc: Cleaning
+- [x] Edoc: Debugging Add Document Freeze
+- [x] Edoc: Save Thumbnail to Sqlite
+
+## Week `39` Sep 21 - Sep 25
+- [x] Edoc: Save Thumbnail to Sqlite
+- [ ] Edoc: Migration to Architecture Component
 
 
