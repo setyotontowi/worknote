@@ -3,7 +3,7 @@ pinned: true
 tags: ['2020/[10] October']
 title: Weekly Task
 created: '2020-10-01T01:10:55.536Z'
-modified: '2020-10-19T01:09:17.898Z'
+modified: '2020-10-23T01:45:52.142Z'
 ---
 
 # Weekly Task
@@ -36,9 +36,9 @@ modified: '2020-10-19T01:09:17.898Z'
 ##### Trivia
 - [ ] Replace search in AddDocument to top
 - [x] Settings redesign
-- [x] Trivia: Remove shadow in toolbar
-- [ ] Belum Ada tombol tambah dokumen di halaman Riwayat Dokumen
-- [ ] dan filter nama dokumen 
+- [x] Trivia: Remove shadow in toolbar  
+- [x] Belum Ada tombol tambah dokumen di halaman Riwayat Dokumen
+- [x] dan filter nama dokumen 
 ##### Bug
 - [x] Timeout error force close status code null exception
 - [x] Bug: App Settings: Filter dokter then select
@@ -49,5 +49,19 @@ modified: '2020-10-19T01:09:17.898Z'
 - [x] Pendaftaran Online: Asuransi
 - [x] Pendaftaran Online: Estimasi
 - [x] Pendaftaran Online: Riwayat null
+
+## Week `43` Okt 19 - Okt 23
+### Pendaftaran Online
+- [x] Release to Play Store: Both
+
+### Edoc
+**Main**
+- [x] Belum Ada tombol tambah dokumen di halaman Riwayat Dokumen
+- [x] dan filter nama dokumen 
+- [x] Hospital Name in Navigation Menu and all strings
+- [ ] Penambahan fitur pencarian dan filter label in PasienFragment
+
+**Experiment**
+- [ ] Add Try Catch for force close like Pendaftaran Online
 
 
