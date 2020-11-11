@@ -1,9 +1,8 @@
 ---
-pinned: true
 tags: ['2020/[10] October']
 title: Weekly Task
 created: '2020-10-01T01:10:55.536Z'
-modified: '2020-10-23T01:45:52.142Z'
+modified: '2020-11-02T02:32:18.005Z'
 ---
 
 # Weekly Task
@@ -59,7 +58,9 @@ modified: '2020-10-23T01:45:52.142Z'
 - [x] Belum Ada tombol tambah dokumen di halaman Riwayat Dokumen
 - [x] dan filter nama dokumen 
 - [x] Hospital Name in Navigation Menu and all strings
-- [ ] Penambahan fitur pencarian dan filter label in PasienFragment
+- [x] Penambahan fitur pencarian dan filter label in PasienFragment
+
+**Trivia**
 
 **Experiment**
 - [ ] Add Try Catch for force close like Pendaftaran Online
