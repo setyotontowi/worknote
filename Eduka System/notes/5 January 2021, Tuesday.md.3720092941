@@ -1,0 +1,35 @@
+---
+tags: ['2021/[01] January']
+title: '5 January 2021, Tuesday'
+created: '2021-01-04T23:04:24.761Z'
+modified: '2021-01-05T00:57:32.083Z'
+---
+
+# 5 January 2021, Tuesday
+21 Jumadil Awwal 1442 `Day 2`
+
+Planning for today
+Examining the flow
+- Application Flow from login
+- Imagine if there is a feature request
+- Mapping the files
+
+Oke, what are we gonna do rn?
+
+**First phase**
+Splash Activity -> Login -> Registration
+Splash Activity -> Home
+
+- All the features is indeed inside features package, like every transaction belong to it.
+- Applying the clean architecture pattern
+
+**Second phase**
+- Clean Architecture
+- Yes, it use view model, the pages?
+- activity grouping? 
+- the questions about business process.
+
+## Logs
+`06.00` init
+`07.00` second phase, break. for 15 minutes 
+`08.00` begin.
