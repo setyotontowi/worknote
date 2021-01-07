@@ -2,7 +2,7 @@
 tags: ['2021/[01] January']
 title: '5 January 2021, Tuesday'
 created: '2021-01-04T23:04:24.761Z'
-modified: '2021-01-05T12:54:46.638Z'
+modified: '2021-01-06T23:18:08.105Z'
 ---
 
 # 5 January 2021, Tuesday
@@ -71,4 +71,4 @@ How to implement
 `15.30` trivia things
 `19.30` refactoring packages
 
-
+7h - (1h)
