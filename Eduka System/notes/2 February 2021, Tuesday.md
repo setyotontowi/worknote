@@ -3,7 +3,7 @@ attachments: [Clipboard_2021-02-02-07-08-55.png]
 tags: ['2021/[02] February']
 title: '2 February 2021, Tuesday'
 created: '2021-02-01T23:21:24.049Z'
-modified: '2021-02-02T00:53:08.059Z'
+modified: '2021-02-02T00:51:53.387Z'
 ---
 
 # 2 February 2021, Tuesday
