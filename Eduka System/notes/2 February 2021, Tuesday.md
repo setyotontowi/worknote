@@ -3,7 +3,7 @@ attachments: [Clipboard_2021-02-02-07-08-55.png]
 tags: ['2021/[02] February']
 title: '2 February 2021, Tuesday'
 created: '2021-02-01T23:21:24.049Z'
-modified: '2021-02-02T00:37:09.300Z'
+modified: '2021-02-02T00:53:08.059Z'
 ---
 
 # 2 February 2021, Tuesday
@@ -34,6 +34,8 @@ What can we do?
 - Empty states for bank soal. 
 
 do the xml first blank.
+modified
 
 ## Logs
-`06.20` init
+`06.20` init, testing the popup blockers
+`07.00` learn git squashing, examining android integration
