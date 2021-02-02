@@ -34,6 +34,7 @@ What can we do?
 - Empty states for bank soal. 
 
 do the xml first blank.
+modified
 
 ## Logs
 `06.20` init, testing the popup blockers
