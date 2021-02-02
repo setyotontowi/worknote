@@ -2,7 +2,7 @@
 tags: ['2021/[01] January']
 title: '12 January 2021, Tuesday'
 created: '2021-01-11T22:27:16.376Z'
-modified: '2021-01-12T05:56:31.870Z'
+modified: '2021-01-12T06:19:34.536Z'
 ---
 
 # 12 January 2021, Tuesday
@@ -62,6 +62,7 @@ layout="@layout/component_ranking_leaderboard" (doesn't need this anymore)
 `11.20` session 9: preparing dummy data (total 6)
 `11.45` session 10: preparing dummy data (total 11)
 `12.40` session 11: updating scrum and preparing standup, also pagination transaction
+`13.19` shutdown
 
 ## Next Session 9
 manipulate size.
