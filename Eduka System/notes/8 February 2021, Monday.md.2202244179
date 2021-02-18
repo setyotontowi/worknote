@@ -1,0 +1,25 @@
+---
+tags: ['2021/[02] February']
+title: '8 February 2021, Monday'
+created: '2021-02-07T23:10:51.078Z'
+modified: '2021-02-08T03:44:51.438Z'
+---
+
+# 8 February 2021, Monday
+25 Jumadil Akhir 1442 `Day 26`
+
+- [ ] Fix bugs from crashlytics
+- [ ] Architecture of Quiz Integration
+
+## Task 2
+- prepare git, cleaning
+- separate module using dagger. add module quiz or migrate module ptn? perhaps, migrate module ptn
+- to migrate module ptn we use dagger entirely, so examine the dagger implementation first. also the dashboard page. so the app only consist of dashboard activity?
+- create depedency on ptn
+  this means edukaptnmodules that includes similarity of viewmodels etc?
+  how to put it out. copy (safer but slower) 
+
+## Logs
+`06.00` init, check firebase and update bugs
+`07.00` preparing migration
+`08.00` migration process
