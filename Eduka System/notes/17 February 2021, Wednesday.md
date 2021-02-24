@@ -3,7 +3,7 @@ attachments: [Clipboard_2021-02-17-08-01-19.png]
 tags: ['2021/[02] February']
 title: '17 February 2021, Wednesday'
 created: '2021-02-16T23:59:55.368Z'
-modified: '2021-02-17T07:07:56.449Z'
+modified: '2021-02-18T00:23:08.284Z'
 ---
 
 # 17 February 2021, Wednesday
@@ -14,7 +14,7 @@ Yesterday, I made a serious mistake to update multiple times at once week. It re
 We're much smaller than I thought it be.
 
 - [x] The second activity, bridging
-- [ ] The second activity, layout
+- [x] The second activity, layout
 - [ ] Analyze the doc, priority number 2 in airtable
 - [x] Analyze the bug on dev api ver 2
 
